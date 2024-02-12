@@ -12,12 +12,20 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>泉大津でのカーナビ・セキュリティー取り付け</description>
-	<lastBuildDate>Mon, 12 Feb 2024 05:26:33 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 12 Feb 2024 10:51:06 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/02/cropped-furuden_logo-32x32.png</url>
+	<title>大阪泉大津-古林電商社</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 </channel>
 </rss>
