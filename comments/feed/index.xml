@@ -7,15 +7,15 @@
 	>
 <channel>
 	<title>
-	よくある質問 へのコメント	</title>
-	<atom:link href="https://furuden.com/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link>https://furuden.com/</link>
+	大阪泉大津-古林電商社 へのコメント	</title>
+	<atom:link href="https://furudencom/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://furudencom/</link>
 	<description>泉大津でのカーナビ・セキュリティー取り付け</description>
-	<lastBuildDate>Mon, 12 Feb 2024 03:25:01 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 14 Jul 2024 16:50:52 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
 </channel>
 </rss>
