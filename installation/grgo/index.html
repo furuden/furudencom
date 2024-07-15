@@ -1120,7 +1120,7 @@ padding-bottom:20px;
 <a href="https://furuden.com/#furuden_contact_form" class="btn btn-primary btn-lg contact_bt"><span class="contact_bt_txt"><i class="far fa-envelope"></i> お問い合わせ <i class="far fa-arrow-alt-circle-right"></i></span></a>
 </div></section></aside><aside class="widget widget_block" id="block-20">
 <h2 class="wp-block-heading">関連サイト</h2>
-</aside><aside class="widget widget_block" id="block-18"><a href="https://www.facebook.com/furuden/" target="_blank"><img decoding="async" src="https://furuden.com/furudencom/img/icons/bnr_facebook.png"></a></aside><aside class="widget widget_block" id="block-19">
+</aside><aside class="widget widget_block" id="block-18"><a href="https://www.facebook.com/furuden/" target="_blank"><img decoding="async" src="https://furuden.com/furudencom/img/icons/bnr_facebook.png"></a></aside><aside class="widget widget_block" id="block-26"><a href="https://www.instagram.com/furuden/?igsh=MWRwZ2Q4OGUxcm1mZQ%3D%3D&utm_source=qr" target="_blank"><img decoding="async" src="https://furuden.com/furudencom/img/icons/bnr_instagram.jpg"></a></aside><aside class="widget widget_block" id="block-19">
 <div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
 <div class="wp-block-button has-custom-width wp-block-button__width-100 is-style-fill"><a class="wp-block-button__link has-vivid-cyan-blue-background-color has-background wp-element-button" href="http://blog.livedoor.jp/furuden/" target="_blank" rel="https://blog.livedoor.jp/furuden/">古林電商社の作業日誌</a></div>
 </div>
@@ -1208,13 +1208,11 @@ let viewXML2 = (xmlDocument) => {
     let rssDiv = document.getElementById('furuden_rss2');
     rssDiv.insertAdjacentHTML('afterbegin', addHtml);
 };
-const rssURL2 = 'http://blog.livedoor.jp/furuden/index.rdf';
+const rssURL2 = 'https://furuden.blog.jp/index.rdf';
 fetch(rssURL2)
 .then( response => response.text())
 .then( xmlData => viewXML2(xmlData));
-</script>
-
-</aside><aside class="widget widget_block" id="block-26"><a href="https://www.instagram.com/furuden/?igsh=MWRwZ2Q4OGUxcm1mZQ%3D%3D&utm_source=qr" target="_blank"><img decoding="async" src="https://furuden.com/furudencom/img/icons/bnr_instagram.jpg"></a></aside>			<aside class="widget widget_child_page widget_link_list">
+</script></aside>			<aside class="widget widget_child_page widget_link_list">
 			<nav class="localNav">
 			<h1 class="subSection-title"><a href="https://furuden.com/installation/">作業一覧</a></h1>
 			<ul>
